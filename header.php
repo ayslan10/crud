@@ -26,4 +26,27 @@
                 </nav>
             </div>
         </div>
+
+
+        <style>
+        .Ayslan {
+            background-image: url('barbearia_home.jpg'); /* Substitua pelo caminho da sua imagem */
+            background-size: cover;
+            background-position: center;
+            height: 400px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+        }
+        .Ayslan h1 {
+            font-size: 3rem;
+        }
+        .Ayslan p {
+            font-size: 1.2rem;
+        }
+    </style>
+</head>
+<body>
     </header>
